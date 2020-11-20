@@ -1,0 +1,22 @@
+body {
+  background-color: #FFABAB;
+  color: white;
+   font-family: verdana;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #FFABAB;
+}
+
+li a {
+  display: block;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #FFBEBC;
+  color: white;
