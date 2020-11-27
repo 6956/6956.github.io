@@ -2,6 +2,7 @@ body {
   background-color: #FFABAB;
   color: white;
    font-family: verdana;
+   text-align:center;
 }
 ul {
   list-style-type: none;
