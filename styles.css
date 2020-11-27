@@ -19,7 +19,11 @@ li {
 
 li a {
   display: block;
-  color:#FFABAB;
+  color:rgb(51,155,51);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  
+  li a:hover {
+  background-color: #111;
+}
