@@ -4,32 +4,22 @@ body {
    font-family: verdana;
    text-align:center;
 }
+
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 200px;
-  background-color: #FFABAB;
+  overflow: hidden;
+  background-color: #333;
 }
+
 li {
   float: left;
 }
 
-li {
-  display: inline;
-}
-
-a {
-  display: block;
-  padding: 8px;
-  background-color: #FFABAB;
-}
-
 li a {
+  display: block;
   color: white;
-  padding: 8px 16px;
+  text-align: center;
+  padding: 14px 16px;
   text-decoration: none;
-}
-li a:hover {
-  background-color: #FFBEBC;
-  color: white;
