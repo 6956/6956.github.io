@@ -19,7 +19,8 @@ li {
 }
 
 li a {
-  display: inline;
+   display: block;
+  padding: 8px;
   color:#FFABAB;
   text-align: center;
   padding: 14px 16px;
